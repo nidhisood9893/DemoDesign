@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{CF64F954-492A-4206-88FD-39B528B370D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.DemoDesign.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoDesign/DemoDesign.iOS/Info.plist">
+    <Files>
+      <File FileName="DemoDesign/DemoDesign.iOS/Info.plist" />
+      <File FileName="DemoDesign/DemoDesign.iOS/CustomRenderers/CustomEntryRenderer.cs" Line="23" Column="5" />
+      <File FileName="DemoDesign/DemoDesign/Views/MainPage.xaml" Line="157" Column="15" />
+      <File FileName="DemoDesign/DemoDesign/App.xaml" Line="124" Column="15" />
+      <File FileName="DemoDesign/DemoDesign/Views/CustomViews/CustomEntry.cs" Line="54" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DemoDesign.Android PreferredExecutionTarget="Android.192.168.56.101:5555" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>
